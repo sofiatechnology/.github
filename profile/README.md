@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 
 <p align="center">
-  <a href="https://github.com/organizations/sofiatechnology/">
+  <!-- <a href="https://github.com/organizations/sofiatechnology/">
     <img alt="SOFIA Tech banner" height="350" width="100%"  
      src="../media/sofia-tech-banner.png" 
      style="object-fit: cover; width: 100%; height: 360px;">
-  </a>
+  </a> -->
     
   <h6 align="center">Follow us on</h6>
   <p align="center">
