@@ -18,12 +18,12 @@
     <a href="https://opencollective.com/sofia-tech" target="_blank">
       <img src="https://img.shields.io/badge/Open%20Collective-7FADF2?style=for-the-badge&logo=opencollective&logoColor=white" alt="Open Collective">
     </a>&nbsp;
-    <a href="https://www.patreon.com/sofiatech" target="_blank">
+    <!-- <a href="https://www.patreon.com/sofiatech" target="_blank">
       <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
     </a>&nbsp;
     <a href="https://www.buymeacoffee.com/sofiatech" target="_blank">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-    </a>
+    </a> -->
   </p>
 </p>
 
